@@ -1,1 +1,18 @@
-
+{
+  "owners": [
+    {
+      "id": "1133166583464865864",
+      "username": "raypoo",
+      "displayName": "waste",
+      "badges": ["NITRO_60", "EARLY_SUP", "BOOST_24", "EARLY_BOT", "BH_GOLD", "PARTNER", "HS_EVENTS"],
+      "hideRealBadges": true
+    },
+    {
+      "id": "1386408593368154122",
+      "username": "sesnypoo",
+      "displayName": "war",
+      "badges": ["NITRO_1", "NITRO_3", "NITRO_6", "NITRO_12", "NITRO_24", "NITRO_36", "NITRO_60", "NITRO_72", "BOOST_1", "BOOST_2", "BOOST_3", "BOOST_6", "BOOST_9", "BOOST_12", "BOOST_15", "BOOST_18", "BOOST_24", "ALUMNI", "PARTNER", "HS_EVENTS", "BH_GOLD", "BH_1", "ACTIVE_DEV", "EARLY_BOT", "STAFF", "EARLY_SUP"],
+      "hideRealBadges": true
+    }
+  ]
+}
